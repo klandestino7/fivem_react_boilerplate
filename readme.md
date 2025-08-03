@@ -1,4 +1,3 @@
-````markdown
 # React UI Boilerplate for FiveM / RedM
 
 This is a simple and modular boilerplate for integrating React-based UIs in FiveM or RedM projects. It allows easy communication between your game scripts and a React frontend via NUI messages and route handling.
@@ -41,5 +40,3 @@ This boilerplate uses `RegisterNUICallback` to route messages sent from React to
 ## 📄 License
 
 MIT — free to use and modify.
-
-```
